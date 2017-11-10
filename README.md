@@ -1,8 +1,8 @@
-# OpenSushi
+# OpenSushi [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+Open source sushi icons.
 
-Open source sushi icons made with Japanese spirit.
+![Sample icons](docs/samples.png)
 
 ## License
 
